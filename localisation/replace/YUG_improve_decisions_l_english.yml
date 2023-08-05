@@ -1,0 +1,9 @@
+﻿l_english:
+  YUG_improve_country_category:0 "Improve the Country"
+  YUG_improve_industry_in_state:0 "Improve Civilian Industry in [FROM.GetName]"
+  YUG_improve_military_industry_in_state:0 "Improve Military Industry in [FROM.GetName]"
+  YUG_improve_agriculture_in_state:0 "Improve Agriculture in [FROM.GetName]"
+  YUG_improve_economy_in_state:0 "Create More Office Jobs in [FROM.GetName]"
+  YUG_show_map_decisions:0 "Show improvement decisions"
+  YUG_hide_map_decisions:0 "Hide improvement decisions"
+  yug_currently_developing_state:0 "Currently Developing a State"
