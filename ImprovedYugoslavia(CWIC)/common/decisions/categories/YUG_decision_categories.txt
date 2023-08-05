@@ -1,0 +1,17 @@
+YUG_improve_country_category = { 
+	icon = null
+	
+	allowed = 
+	{
+		original_tag = YUG
+	}
+	priority = 
+	{
+		base = 10 # TODO_TA set correct position 
+	}
+	visible = 
+	{
+		has_completed_focus = YUG_The_Reconstruction_of_Yugoslavia
+		tag = YUG
+	}
+}
